@@ -3,9 +3,14 @@
     <div class="uk-child-width-expand@m" data-uk-grid>
 
       {% for page_widget in site.data.sidebars.footer %}
-        {% include widget-{{ page_widget.widget }}.html title=page_widget.title count=page_widget.count links=page_widget.links content=page_widget.content copyright=page_widget.copyright %}
+      {% include widget-{{ page_widget.widget }}.html title=page_widget.title count=page_widget.count links=page_widget.links content=page_widget.content copyright=page_widget.copyright %}
       {% endfor %}
-    
+
     </div>
+    <hr />
+    <p>Write Club acknowledges the traditional territories of the Blackfoot and the people of the Treaty 7 region
+      in Southern Alberta, which includes the Siksika, the Piikuni, the Kainai, the Tsuut'ina and the Stoney Nakoda
+      First Nations, including Chiniki, Bearspaw, and Wesley First Nation. The City of Calgary is also home to the
+      Métis Nation of Alberta, Region III.</p>
   </div>
 </footer>
