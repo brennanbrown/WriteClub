@@ -14,7 +14,7 @@ linkedin:       https://www.linkedin.com/li/brennankbrown
 twitter:        https://twitter.com/bkennethbrown
 ---
 
-Writer and open-source web developer. I'm looking to do good—and I mean real good. I want to empower marginalized voices, emphasize stories that matter, and create long-lasting community. I'm looking to help those in the Alberta area with their next project with the unique skill-set I have!
+Hi, I'm Kenneth, I'm a queer Métis writer and open-source web developer. I'm looking to do good—and I mean real good. I want to empower marginalized voices, emphasize stories that matter, and create long-lasting community. I'm looking to help those in the Alberta area with their next project with the unique skill-set I have!
 
 I love researching and writing a wide variety of genre, from poetry to creative non-fiction I'm knowledgeable in multiple front-end frameworks and ecosystems, as well as an advocate for accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
 
