@@ -7,7 +7,7 @@
 # Site settings
 title:              Mount Royal Write Club
 description:        The official website for Mount Royal University's Creative Writing Club
-url:                # Site base hostname & protocol, e.g. http://example.com
+url:                https://writeclub.ca # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
   dark:             # Dark logo e.g logo-dark.svg upload to /uploads/ folder, used in header, mobile navigation and page sidebar About widget
@@ -41,17 +41,17 @@ social_share:
 
 # Social networks
 social_networks:
-  email:            mailto:editor@writeclub.ca
+  email:            editor@writeclub.ca
   website:          https://marketing.brennanbrown.ca
   facebook:         https://www.facebook.com/
   flickr:         
   dribbble:       
   github:           https://brennanbrown.github.io
   reddit:           https://reddit.com/u/WanderBetter
-  instagram:        https://www.instagram.com/bkennethbrown
+  instagram:        https://www.instagram.com/brennankennethbrown
   linkedin:         
   pinterest:      
-  twitter:          https://twitter.com/
+  twitter:          https://twitter.com/bkennethbrown
   vimeo:          
   youtube:          https://www.youtube.com/    
 
