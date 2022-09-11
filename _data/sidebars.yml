@@ -22,27 +22,27 @@ footer:
     title: ABOUT
     links:
       - title: "About Us"
-        url: /#/
-      - title: "Our Story"
-        url: /#/
+        url: /about/
+      # - title: "Our Story"
+      #   url: /#/
       - title: "Contribute"
-        url: /#/
+        url: https://ko-fi.com/brennan
       - title: "Terms"
-        url: /#/
-      - title: "Contact"
-        url: /contact/
+        url: /terms/
+      - title: "Apply"
+        url: https://forms.gle/Ac2X8ArAKXX4zHwK8
 
-  - widget: links
-    title: PRODUCTS
-    links:
-      - title: "Advertising"
-        url: /#/
-      - title: "Featured Story"
-        url: /#/
-      - title: "Donations"
-        url: /#/
-      - title: "Charity"
-        url: /#/
+  # - widget: links
+  #   title: LINKS
+  #   links:
+  #     - title: "Advertising"
+  #       url: /#/
+  #     - title: "Featured Story"
+  #       url: https://writeclub.ca/my-writing-process/
+  #     - title: "Donations"
+  #       url: /#/
+  #     - title: "Charity"
+  #       url: /#/
 
   - widget: categories
     title: CATEGORIES
