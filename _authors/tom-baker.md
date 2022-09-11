@@ -2,7 +2,7 @@
 title:          Tom Placeholder
 username:       tom
 image:          https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar-600x600.png
-bio:            Writer at WorkBox Publishing, parent, aminal lover and avid coffee drinker.
+bio:            Writer at Placeholder Publishing, parent, animal lover and avid coffee drinker.
 email:          me@mysite.com
 website:        https://mysite.com
 facebook:       https://www.facebook.com/
