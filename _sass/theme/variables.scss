@@ -30,13 +30,13 @@ $navbar-background: $global-primary-background;
 $base-body-font-weight: 400;
 $base-heading-color: $color-dark;
 $base-h2-line-height: 1.4;
-$base-link-hover-text-decoration: none;
+$base-link-hover-text-decoration: underline;
 $base-body-color: $color-dark;
 $base-hr-border: $global-border;
 
 $global-font-size: 16px;
-$global-link-color: $global-secondary-background;
-$global-link-hover-color: $global-primary-background;
+$global-link-color: $global-primary-background;
+$global-link-hover-color: $global-danger-background;
 $global-xxlarge-font-size: 2.074rem;
 $global-xlarge-font-size: 1.728rem;
 $global-large-font-size: 1.44rem;

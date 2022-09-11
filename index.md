@@ -2,13 +2,13 @@
 layout: full
 ---
 
-{% include section-ad.html image="hero.jpg" alt="Sign up to our club now!" width="" url="hero.jpg" blank="true" %}
+{% include section-ad.html image="hero.jpg" alt="Sign up to our club now!" width="" url="https://forms.gle/Ac2X8ArAKXX4zHwK8" blank="true" %}
 
 {% include section-featured.html title="Featured Story" %}
 
 {% include section-spotlight.html title="Spotlight" %}
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with what is happening in the city." button_text="Support Us" %}
+{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with club activities and new writings." button_text="Support Us" %}
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Writings" %}
 
@@ -18,7 +18,7 @@ layout: full
 
 <!-- {% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %} -->
 
-{% include section-cta.html title="Looking To Contribute?" text="We are looking for writers from all walks of life to contribute to out blog, if you have something to say get in touch." button_text="Contact Us" button_url="/contact/" blank="true" %}
+{% include section-cta.html title="Looking To Contribute?" text="We are looking for writers from all walks of life to contribute, if you have something to say get in touch." button_text="Apply" button_url="https://forms.gle/Ac2X8ArAKXX4zHwK8" blank="true" %}
 
 <!-- 
 {% include section-author.html author="john" title="Hello, I am Jane! Welcome to my blog." %} 
