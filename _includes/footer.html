@@ -7,6 +7,21 @@
       {% endfor %}
 
     </div>
+    {% if include.content %}
+    <div class="uk-margin">{{ include.content }}</div>
+    {% endif %}
+    {% if site.description %}
+    <div class="uk-margin copyright">{{ site.description }} Created by <a
+        href="https://marketing.brennanbrown.ca">Brennan Kenneth Brown</a> and <a href="https://unbound.studio/">Unbound
+        Studios</a>.</div>
+    {% endif %}
+    {% if site.social_networks %}
+    <div class="uk-margin">
+      <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-flex-left@m">
+        {% include social-networks.html %}
+      </div>
+    </div>
+    {% endif %}
     <hr />
     <p>Write Club acknowledges the traditional territories of the Blackfoot and the people of the Treaty 7 region
       in Southern Alberta, which includes the Siksika, the Piikuni, the Kainai, the Tsuut'ina and the Stoney Nakoda
