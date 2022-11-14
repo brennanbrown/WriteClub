@@ -3,7 +3,7 @@ title:          B. Kenneth Brown
 username:       kenneth
 default:        true
 image:          https://brennanbrown.ca/img/avatar.jpg
-bio:            Second-year English Honours student, working on marketing for nonprofits, hoping to get this club started.
+bio:            
 email:          mail@brennanbrownca
 website:        https://marketing.brennanbrown.ca
 facebook:       https://www.facebook.com/brennankennethbrown
