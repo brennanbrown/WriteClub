@@ -8,7 +8,7 @@ author: kenneth
 hidden: true
 ---
 
-The craft of writing, detailing how exactly to go from a simple and disorderly idea to a completed and coherent piece. here are many steps to this process — from brainstorms to an outline, from drafting to revisions, until you have something publishable. Writing is a mysterious and elusive artform. Whether it’s technical, creative, or copy — good writing contains something that cannot be taught. 
+The craft of writing, detailing how exactly to go from a simple and disorderly idea to a completed and coherent piece. here are many steps to this process — from brainstorms to an outline, from drafting to revisions, until you have something publishable. Writing is a mysterious and elusive artform. Whether it’s technical, creative, or copy — good writing contains something that cannot be taught.
 
 A balance needs to be struck between the formless idea and the formulaic structure. The idea — the actual content — needs to be exciting and novel. But if the presentation — the display and perception of that content — isn’t also good, then the idea will largely be lost. Yet, if the idea is lacking, then no amount of amazing presentation can salvage it.
 

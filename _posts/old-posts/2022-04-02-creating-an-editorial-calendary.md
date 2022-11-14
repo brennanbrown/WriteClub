@@ -2,7 +2,7 @@
 title: Creating an Editorial Calendar
 image: https://images.unsplash.com/photo-1506784365847-bbad939e9335?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2068&q=80
 categories: [educational]
-tags: [featured]
+tags: []
 description: As a freelance writer, it can be easy to think only in the short-term — Start utilizing a calendar the way big-name publishers do in order to consistently produce high-quality content for a more engaged audience!
 author: kenneth
 hidden: true
