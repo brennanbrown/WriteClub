@@ -4,15 +4,15 @@ layout: full
 
 {% include section-ad.html image="hero.jpg" alt="Sign up to our club now!" width="" url="https://forms.gle/Ac2X8ArAKXX4zHwK8" blank="true" %}
 
-{% include section-featured.html title="Featured Story" %}
+<!-- {% include section-featured.html title="Featured Story" %}
 
-{% include section-spotlight.html title="Spotlight" %}
+{% include section-spotlight.html title="Spotlight" %} -->
 
 {% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with club activities and new writings." button_text="Support Us" %}
 
-{% include section-latest.html title="Latest Articles" limit="4" more="More Writings" %}
+{% include section-latest.html title="Latest Writings" limit="6" more="More Writings" %}
 
-{% include section-ad.html title="Advertisement" image="placeholder.png" url="#" blank="true" %}
+<!-- {% include section-ad.html title="Advertisement" image="placeholder.png" url="#" blank="true" %} -->
 
 {% include section-authors.html title="Our Contributors" %}
 
