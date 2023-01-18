@@ -1,7 +1,7 @@
 ---
 title:          Danaë Webb
 username:       danae
-image:          https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar-600x600.png
+image:          https://i.ibb.co/m0dJQYn/Screen-Shot-2023-01-18-at-4-19-36-PM.png
 bio:            
 email:          
 website:        
