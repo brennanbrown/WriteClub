@@ -1,7 +1,7 @@
 ---
 title:          Danaë Webb
 username:       danae
-image:          https://i.ibb.co/m0dJQYn/Screen-Shot-2023-01-18-at-4-19-36-PM.png
+image:          https://i.ibb.co/hyHT2sY/Danae-Webb.jpg
 bio:            
 email:          
 website:        
