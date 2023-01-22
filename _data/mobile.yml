@@ -1,6 +1,9 @@
 # Mobile menu navigation links
 - title: Home
   url: /
+  
+- title: About
+  url: /about
 
 - title: Fiction
   url: /category/fiction/
@@ -10,9 +13,6 @@
 
 - title: Non-Fiction
   url: /category/nonfiction/
-
-- title: Events
-  url: /events/
 
 - title: Apply
   url: https://forms.gle/Ac2X8ArAKXX4zHwK8
