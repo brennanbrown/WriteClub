@@ -8,7 +8,7 @@ author: danae
 hidden: false
 ---
 
-Vaporous coils of smoke twisted and wafted around the glistening marble pavilion, permeating the air with the sweet aroma of rose that emanated from the copper bowl squatting in a corner of the room. Braziers blazed throughout the pavilion, casting a warm and comforting glow around the room. 
+Vaporous coils of smoke twisted and wafted around the glistening marble pavilion, permeating the air with the sweet aroma of rose that emanated from the copper bowl squatting in a corner of the room. Braziers blazed throughout the pavilion, casting a warm and comforting glow around the room.
 
 Humming through the air was the mixed sound of lilting lyres and the murmurs of thirty, loitering women.
 

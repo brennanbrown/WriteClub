@@ -8,7 +8,7 @@ author: ryan
 hidden: false
 ---
 
-Welcome fresh unmolded mind. If you decided to pick up this book it probably means you're lonely, young, and too naive to know what's good for you. If that's the case, then you're already in a great position to be starting your whirlwind romance! 
+Welcome fresh unmolded mind. If you decided to pick up this book it probably means you're lonely, young, and too naive to know what's good for you. If that's the case, then you're already in a great position to be starting your whirlwind romance!
 
 Now before we continue on much further, remember that what you're interested in here is not a happily-ever-after. Instead you want passion, you want fre, you want a desire so bright and so intense that it will singe your eyebrows and leave you weak in the knees. You want the kind of romance that only appears in movies, specifcally the ones you have to lie about your age in order to get a ticket to or get past the frewall. Remember, you will walk away from this with a couple of scars, probably double the emotional baggage you had before you started, and a not inconsiderable amount of trauma that will require at least some therapy in order to resolve! Of course that's only
 

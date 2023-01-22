@@ -8,7 +8,7 @@ author: campton
 hidden: false
 ---
 
-To summit, you must rise when the sun is asleep and walk across cratered terrain lit only by milky stars. A five-hour sunrise summit across five kilometres of rock. Good luck going to sleep the evening before. If you're lucky, the previous day’s nine hours of walking exhausted you just enough to rest your eyes for a couple of hours. 
+To summit, you must rise when the sun is asleep and walk across cratered terrain lit only by milky stars. A five-hour sunrise summit across five kilometres of rock. Good luck going to sleep the evening before. If you're lucky, the previous day’s nine hours of walking exhausted you just enough to rest your eyes for a couple of hours.
 
 If you manage to fall asleep, it'll only be a couple of hours before Moses runs his hand along the outside of your thin tent to wake you, rustling the nylon fabric and disturbing the curtain of silence that settles over the camp.
 
