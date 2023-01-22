@@ -14,8 +14,4 @@ linkedin:       https://www.linkedin.com/li/brennankbrown
 twitter:        https://twitter.com/bkennethbrown
 ---
 
-Hi, I'm Kenneth, I'm a queer Métis writer and open-source web developer. I'm looking to do good—and I mean real good. I want to empower marginalized voices, emphasize stories that matter, and create long-lasting community. I'm looking to help those in the Alberta area with their next project with the unique skill-set I have!
-
-I love researching and writing a wide variety of genre, from poetry to creative non-fiction I'm knowledgeable in multiple front-end frameworks and ecosystems, as well as an advocate for accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
-
-If you think I can help you with a new opportunity, or you just wanna chat over a cup of decaf coffee. don't be afraid to shoot me an e-mail at: <mail@brennanbrown.ca>
+Kenneth Brown is the President of the Write Club, and is a queer Métis writer and open-source web developer. He's always looking for ways to empower marginalized voices, emphasize stories that matter, and create long-lasting community.  He loves researching and writing a wide variety of genre, from poetry to creative non-fiction. If you think he can help you with a new opportunity, or you just wanna chat over a cup of decaf coffee. don't be afraid to shoot him an e-mail at: <mail@brennanbrown.ca>
