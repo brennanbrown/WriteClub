@@ -1,7 +1,7 @@
 ---
 title:          Em Brown
 username:       em
-image:          https://i.ibb.co/TqxpT3L/Em-Brown.png
+image:          https://i.ibb.co/LZJwPB7/em.jpg
 bio:            
 email:          
 website:        https://for-all-the-words-not-said.tumblr.com/ 

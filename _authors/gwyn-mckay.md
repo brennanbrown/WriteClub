@@ -7,4 +7,4 @@ email:          gmcka7651@mtroyal.ca
 instagram:      https://www.instagram.com/feyrailen_art_stuff/ 
 ---
 
-G. C. is a General Science major with a passion for poetic writing.
+McKay (any pronouns) identifies as Genderfluid. They are currently a General Science major with a passion for art and poetic writing.
