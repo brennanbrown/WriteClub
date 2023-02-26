@@ -1,7 +1,7 @@
 ---
 title: Which is Magic
 image: https://i.ibb.co/spfpkqc/DALL-E-2023-02-25-16-00-56-Seaplane-Terminal-Watercolor.png
-categories: [fiction]
+categories: [nonfiction]
 tags: []
 description: 
 author: campton
