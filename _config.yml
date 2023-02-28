@@ -6,7 +6,7 @@
 
 # Site settings
 title:              Mount Royal Write Club
-description:        The official website for Mount Royal University's Creative Writing Club.
+description:        "The official website for Mount Royal University's Creative Writing Club."
 url:                https://writeclub.ca # Site base hostname & protocol, e.g. http://example.com
 baseurl:            "" # Site subpath, e.g. /blog
 logo_image:
@@ -48,10 +48,10 @@ social_networks:
   dribbble:       
   github:           https://brennanbrown.github.io
   reddit:           https://reddit.com/u/WanderBetter
-  instagram:        https://www.instagram.com/MRUWriteClub
-  linkedin:         
+  instagram:        https://www.instagram.com/WriteClubMRU
+  linkedin:         https://linkedin.com/in/brennankbrown
   pinterest:      
-  twitter:          https://twitter.com/MRUWriteClub
+  twitter:          https://twitter.com/WriteClubMRU
   vimeo:          
   youtube:           
 
