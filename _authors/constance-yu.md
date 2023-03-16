@@ -7,4 +7,4 @@ email:          connieyubusiness@gmail.com
 website:        
 ---
 
-Constance Yu is Secretary of the Write Club and forth-year Sociology major. For years, Constance has had a fond love for poetry, and is currently working on her first chapbook to publish. Outside of writing, she is a social worker trying her best to help others.
+Connie Yu is a 26-year-old poet, Secretary of the Write Club, and social worker aiding the vulnerable population, residing in Calgary, Alberta, Canada.  She currently pursues a degree in sociology at Mount Royal University. Along with her love for poetry, Connie enjoys capturing the beauty of the world through photography. Her poems often reflect her many observations on the human experience and the emotions that come with it. Yu dedicates her life to helping people and animals of all kinds. When she isn't writing, Yu enjoys art galleries, rock climbing, and very long baths.
