@@ -1791,10 +1791,6 @@
      * Navbar
      */
 
-    .uk-navbar-center {
-        gap: 0px!important;
-    }
-
     .uk-navbar-container > .uk-container .uk-navbar-left {
         margin-left: (-$navbar-nav-item-padding-horizontal);
         margin-right: (-$navbar-nav-item-padding-horizontal);
@@ -1824,6 +1820,12 @@
         left: $navbar-dropdown-grid-gutter-horizontal;
         right: 0;
         border-top: $navbar-dropdown-grid-divider-border-width solid $navbar-dropdown-grid-divider-border;
+    }
+
+    /* Fix Gap */
+
+    .uk-navbar, .uk-navbar-left, .uk-navbar-center, .uk-navbar-right, .uk-navbar-nav {
+        gap: 0!important;
     }
 
 }

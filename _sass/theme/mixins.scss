@@ -166,6 +166,12 @@ header .uk-sticky-fixed {
     }
     font-family: $font-san-serif;
     font-weight: 700;
+
+    /* Fix Gap */
+
+    .uk-navbar, .uk-navbar-left, .uk-navbar-center, .uk-navbar-right, .uk-navbar-nav {
+          gap: 0!important;
+      }
 }
 @mixin hook-navbar-nav-item(){
     text-transform: $navbar-nav-item-text-transform;
