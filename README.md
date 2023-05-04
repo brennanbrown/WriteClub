@@ -44,7 +44,7 @@
 
 Mount Royal University's Creative Writing Club is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well as offering prompts, activities, exercises, and sharing resources. Please read our [Code of Conduct](/terms)
 
-Meetings will be held in the **MRU Clubhouse (Z306) once a week on Wednesdays from 4:30pm - 6:30pm**. The meetings will be open to all Mount Royal University students and will be free of charge, non-students are also welcome but cannot vote on club policy.
+🎇 **New!** For the Spring 2023 semester, meetings will be held in the **MRU Clubhouse (Z306) once a week on Thursdays from 4:30pm - 6:30pm**. The meetings will be open to all Mount Royal University students and will be free of charge, non-students are also welcome but cannot vote on club policy.
 
 Each meeting will begin with a brief introduction and overview of the club and its activities, followed by a fun and creative prompt or exercise to get everyone's creative juices flowing. After that, participants will be encouraged to share any works they may have been working on in a Writer's Round Table. Members can bring in their work, have other members read it, and then provide constructive feedback in a supportive, non-judgemental environment. 
 
