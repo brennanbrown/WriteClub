@@ -11,7 +11,9 @@
 <div class="uk-container uk-margin-medium-bottom uk-text-center">
   <div class="uk-child-width-1-3@s uk-child-width-1-6@l uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
     {% for author in site.authors %}
+    {% if author.image != "https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar-600x600.png" %}
     {% include content-author.html %}
+    {% endif %}
     {% endfor %}
   </div>
 </div>
