@@ -9,7 +9,7 @@ Mount Royal University’s Creative Writing Club is dedicated to nurturing the l
 ## Our Meetings for Fall 2023
 
 Venue: MRU Clubhouse (Z306)  
-Frequency: Every Week (specific day TBD)  
+Frequency: Every Wednesday
 Time: 4:30pm - 6:30pm
 
 *Note: While all Mount Royal University students can join our meetings free of charge, non-students are warmly welcomed too! However, voting rights on club policies remain exclusive to MRU students.*
