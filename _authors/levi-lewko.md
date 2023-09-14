@@ -1,7 +1,7 @@
 ---
 title:          Levi Lewko
 username:       levi
-image:          https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar-600x600.png
+image:          https://i.ibb.co/j6v3gr3/9-C439503-B3-AA-441-A-B458-F7477-DAD28-D8.png
 bio:            
 email:          
 website:        
