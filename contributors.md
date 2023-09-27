@@ -4,18 +4,6 @@ permalink: /contributors/
 sidebar: none
 ---
 
-<style>
-    .centered {
-        text-align: center;
-    }
-
-    img.centered-img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
 {% for author in site.authors %}
 <div class="centered">
     <img src="{{author.image}}"
