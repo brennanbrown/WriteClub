@@ -5,18 +5,16 @@ sidebar: none
 ---
 
 {% for author in site.authors %}
-<div class="centered">
-    <img src="{{author.image}}"
-         width="200"
-         height="auto"
-         alt="Photo of {{author.title}}"
-         class="centered-img" />
-    <h2>
-        <a href="{{ author.url }}">
-            {{ author.title }}
-        </a>
-    </h2>
-</div>
-<p>{{ author.content | markdownify }}</p>
-<hr/>
+  <img src="{{author.image}}"
+       width="200"
+       height="auto"
+       alt="Photo of {{author.title}}"
+       style="display: block; margin-left: auto; margin-right: auto;" />
+  <h2 style="text-align: center;">
+    <a href="{{ author.url }}" style="text-align: center;">
+      {{ author.title }}
+    </a>
+  </h2>
+  <p>{{ author.content | markdownify }}</p>
+  <hr style="text-align: center;"/>
 {% endfor %}
