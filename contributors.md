@@ -1,5 +1,5 @@
 ---
-title: Our Writers
+title: The Authors of MRU's Write Club
 permalink: /contributors/
 sidebar: none
 ---
