@@ -6,7 +6,7 @@ title: Events
 
 ![Poster for the Poetry and Prose Slam](https://i.ibb.co/P4HrRs8/IMG-1946.jpg)
 
-## Poetry and Prose Slam
+# Poetry and Prose Slam
 
 Are you ready to witness the power of words in a performance? Get ready, Writers! Write Club is bringing you a Poetry and Prose Slam! The spotlight will shine on YOU and your writing.
 
@@ -24,11 +24,13 @@ We're kicking off the evening with an open mic session that invites all particip
 **Competitive Rounds:**
 Following the open mic session, we move into the competitive phase of the Poetry and Prose Slam. In these three competitive rounds, participants will have the chance to perform their original poems and prose pieces with the aim of impressing our judges and the audience. Your performance, both in terms of the content and delivery, will be evaluated. A minimum of three pieces will be required, and there will be a fee to enter.
 
-Rules:
+## Rules
 * No props or accompaniment: Performers should not wear any costumes or use props during their performance. The use of musical instruments, backing tracks, or sound effects is also not permitted.
 * Original Works Only: All pieces performed must be original creations of the participants.
 * Time Limit: Performers are required to adhere to a time limit of five minutes for their performances.
 * Registration Deadline: Participants must register in advance by a specified deadline. Late registrations may not be accepted.
+
+## Schedule
 
 ### 4:00 PM - Welcome Speech
 - Explanation of the rules for the poetry and prose slam.
