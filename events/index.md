@@ -51,4 +51,3 @@ Following the open mic session, we move into the competitive phase of the Poetry
 ### 7:00 PM - Event Ends
 
 ![Alternative Poster for the Prose and Poetry Slam](https://i.ibb.co/f4m6Ytz/IMG-1947.jpg)
-~[
