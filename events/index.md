@@ -4,7 +4,7 @@ permalink: /events/
 title: Events
 ---
 
-![Poster for the Poetry and Prose Slam](https://i.ibb.co/P4HrRs8/IMG-1946.jpg)
+![Poster for the Poetry and Prose Slam](https://i.ibb.co/0C2M0ND/Poetry-and-Prose-Slam-Poster-1-11-x-17-in-2.png)
 
 # Poetry and Prose Slam
 
@@ -22,7 +22,7 @@ It's not just about the words; it's about the performance! Get ready to captivat
 We're kicking off the evening with an open mic session that invites all participants to take the stage and share their poetry or prose. This is a casual and inclusive segment, perfect for those who want to test the waters, gain some experience, or simply share their work without the competitive aspect. There's no judging in this phase; it's all about self-expression and community.
 
 **Competitive Rounds:**
-Following the open mic session, we move into the competitive phase of the Poetry and Prose Slam. In these three competitive rounds, participants will have the chance to perform their original poems and prose pieces with the aim of impressing our judges and the audience. Your performance, both in terms of the content and delivery, will be evaluated. A minimum of three pieces will be required, and there will be a fee to enter.
+Following the open mic session, we move into the competitive phase of the Poetry and Prose Slam. In these three competitive rounds, participants will have the chance to perform their original poems and prose pieces with the aim of impressing our judges and the audience. Your performance, both in terms of the content and delivery, will be evaluated. A minimum of three pieces will be required. Separate prizes for poetry and prose will be awarded!
 
 ## Rules
 * No props or accompaniment: Performers should not wear any costumes or use props during their performance. The use of musical instruments, backing tracks, or sound effects is also not permitted.
