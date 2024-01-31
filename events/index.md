@@ -4,6 +4,52 @@ permalink: /events/
 title: Events
 ---
 
+![Poster for the Micro-Storytelling & Micro-Fiction Event](https://i.ibb.co/wzsbrgM/Micro-Storytelling-and-Micro-fiction.png)
+
+# Micro-Storytelling & Micro-Fiction Event
+
+Prepare to be mesmerized by the magic of miniature narratives! Write Club invites you to the Micro-Storytelling & Micro-Fiction Event, a celebration of concise and captivating storytelling. Get ready to share under the spotlight, where brevity meets creativity at West Gate Social.
+
+**Venue**: West Gate Social
+
+**Date**: Wednesday, February 8, 2024
+
+**How It Works:**
+You get to tell your story, but keep it short and sweet. We're focusing on micro-fiction and storytelling that's short but impactful. Here's the plan:
+
+**Micro-fiction Contest:**
+Starting at 4:05 pm, the evening will begin with micro-fiction stories. Participants will have a chance to captivate the audience with their well-crafted stories in 3 rounds, and be scored by our team of judges for a chance to earn an Indigo Gift Card! These narratives need to be fictionalized. 
+
+**Storytelling Contest:**
+At 4:50 pm, after the micro-fiction contest, we'll move into a segment featuring competitive storytellers. In this part, participants will have a chance to captivate the audience with their well-crafted stories in 3 rounds, and be scored by our team of judges for a chance to earn an Indigo Gift Card! These narratives need to be true, personal, and ideally without notes. 
+
+## Rules
+* **Be Original**: All stories must be your own work.
+* **Watch the Clock**: Micro-fiction shouldn't be more than 2 minutes. Storytelling pieces max out at 5 minutes.
+* **Just Your Voice**: No costumes, props, or music. Let your words do the work.
+* **Sign Up Early:** Make sure to register beforehand. If you're late, you might not get to participate.
+
+## Schedule
+
+### 3:30 PM - Club Arrives
+Setting up for a night of great stories.
+
+### 4:00 PM - Black History Month Acknowledgment
+We will begin with a respectful acknowledgment of Black History Month, celebrating the richness and diversity of stories from the African diaspora.
+
+### 4:05 PM - Micro-fiction Contest
+Your time to shine with short, powerful real-life stories.
+
+### 4:50 PM - Storytelling Contest
+A chance for fictional, but still captivating tales.
+
+### 6:00 PM - End
+> Note: "History with a Drag Queen" starts at 6:30 pm in the same place.
+
+Join us for a night where every word counts and every story is a journey, all in a few minutes. It's storytelling, but quicker!
+
+---
+
 ![Poster for the Poetry and Prose Slam](https://i.ibb.co/0C2M0ND/Poetry-and-Prose-Slam-Poster-1-11-x-17-in-2.png)
 
 # Poetry and Prose Slam
