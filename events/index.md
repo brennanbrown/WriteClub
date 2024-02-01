@@ -25,10 +25,12 @@ At 4:50 pm, after the micro-fiction contest, we'll move into a segment featuring
 
 ## Rules
 * **Be Original**: All stories must be your own work.
-* **Watch the Clock**: Micro-fiction shouldn't be more than 2 minutes. Storytelling pieces max out at 5 minutes.
-* **Just Your Voice**: No costumes, props, or music. Let your words do the work.
+* **Watch the Clock**: Micro-fiction shouldn't be more than 5 minutes. Storytelling pieces max out at 5 minutes.
+* **Just Your Voice**: No props, or music. Let your words do the work. 
+* **Point System**: Judges will be focusing on the quality of the performance and craftmanship of the piece. Each piece will be rated within 10-points by each judge. Three points are given based on the applause and cheer the audience makes. The audience can yell "HIGHER" to request the judges to add a point.
 * **Sign Up Early:** Make sure to register beforehand. If you're late, you might not get to participate.
-
+* **FREE DRINK TICKET:** Performers will get a free drink ticket!
+  
 ## Schedule
 
 ### 3:30 PM - Club Arrives
