@@ -10,6 +10,8 @@ title: Events
 
 Prepare to be mesmerized by the magic of miniature narratives! Write Club invites you to the Micro-Storytelling & Micro-Fiction Event, a celebration of concise and captivating storytelling. Get ready to share under the spotlight, where brevity meets creativity at West Gate Social.
 
+## [See the Judging Rubric HERE!](https://writeclub.ca/Rubric.pdf)
+
 **Venue**: West Gate Social
 
 **Date**: Wednesday, February 8, 2024
