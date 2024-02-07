@@ -14,7 +14,7 @@ Prepare to be mesmerized by the magic of miniature narratives! Write Club invite
 
 **Venue**: West Gate Social
 
-**Date**: Wednesday, February 8, 2024
+**Date**: Thursday, February 8, 2024
 
 **How It Works:**
 You get to tell your story, but keep it short and sweet. We're focusing on micro-fiction and storytelling that's short but impactful. Here's the plan:
