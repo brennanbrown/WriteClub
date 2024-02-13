@@ -2,7 +2,7 @@
 title:          B. Kenneth Brown
 username:       kenneth
 default:        true
-image:          https://brennanbrown.ca/img/avatar.jpg
+image:          https://i.ibb.co/dkDzz59/brennanbrown.png
 bio:            
 email:          mail@brennanbrownca
 website:        https://marketing.brennanbrown.ca
