@@ -4,6 +4,45 @@ permalink: /events/
 title: Events
 ---
 
+![Poster for the Open-Mic Event](https://i.ibb.co/7J7bVbw/Open-Mic-Night.jpg)
+
+# Open-Mic at West Gate Social
+
+Get ready for an afternoon filled with creativity and expression! Write Club, in collaboration with the Faculty of Arts, invites you to an open-mic event that promises to be a celebration of talent and community. Whether you're a professor, student, alumni, or simply someone who loves the arts, this is your stage!
+
+**Venue**: West Gate Social
+
+**Date**: Wednesday, April 3, 2024
+
+**How It Works:**
+This open-mic event is a platform for you to share your voice, your stories, and your talent. It's a gathering of minds and expressions, where everyone is welcome to perform or just enjoy the show. Here’s what to expect:
+
+**Open Mic Session:**
+The heart of the event is our open mic session, where participants are invited to take the stage. Whether it's poetry, prose, or any form of spoken word, this is your moment in the spotlight. It's a supportive and inclusive environment, perfect for those looking to showcase their work, practice their performance skills, or simply share a piece of themselves. No competition, just pure expression.
+
+## Rules
+* Open to All: Professors, students, alumni, and guests are all welcome to perform or attend.
+* Time Limit: Each performer is given a time limit of five minutes to share their work.
+* Bring Your Best: While the event is non-competitive, we encourage you to bring your passion and creativity to the stage.
+* Free Drinks!: If you are a performer, you get one free drink courtesy of SAMRU.
+
+## Schedule
+
+### 3:00 PM - Event Begins
+- Opening remarks and a brief overview of the event's flow.
+- Introduction of the open mic session and encouragement for all to participate.
+
+### 3:10 PM - Open Mic Session
+- Participants take the stage to perform their pieces. A vibrant mix of poetry, prose, and spoken word is anticipated.
+
+### 5:00 PM - Event Ends
+- Closing remarks and a thank you to all participants and attendees for creating a memorable afternoon.
+
+Come perform or watch, and let's celebrate the power of words together at West Gate Social!
+
+
+---
+
 ![Poster for the Micro-Storytelling & Micro-Fiction Event](https://i.ibb.co/wzsbrgM/Micro-Storytelling-and-Micro-fiction.png)
 
 # Micro-Storytelling & Micro-Fiction Event
