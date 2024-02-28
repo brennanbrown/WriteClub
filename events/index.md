@@ -39,6 +39,57 @@ The heart of the event is our open mic session, where participants are invited t
 
 Come perform or watch, and let's celebrate the power of words together at West Gate Social!
 
+---
+
+![Poster for the Poetry Slam in March at MRU](https://i.ibb.co/N9rpGjL/poetry-slam-march.jpg" alt="poetry-slam-march)
+
+# Poetry Slam at West Gate Social
+
+🎤📚 Mark your calendars! 📚🎤 Get ready for an electrifying evening of spoken word and poetic magic at West Gate Social! 🌟 Join us for a Poetry Slam at MRU on Thursday, March 21, 2024. 🗓️ Whether you're a seasoned poet or just love soaking in the vibes, this event promises to be unforgettable! 🎶✨
+
+## [See the Judging Rubric HERE!](https://writeclub.ca/Rubric-Poetry.pdf)
+
+**Venue**: West Gate Social
+
+**Date**: Thursday, March 21, 2024
+
+**How It Works:**
+Participants will have the opportunity to perform their original poems or prose pieces. It’s not just about the words; it’s about the performance! Get ready to captivate the audience with your delivery. Here’s how the event will unfold:
+
+**Open Mic Session:**
+We’re kicking off the evening with an open mic session that invites all participants to take the stage and share their poetry or prose. This is a casual and inclusive segment, perfect for those who want to test the waters, gain some experience, or simply share their work without the competitive aspect. There’s no judging in this phase; it’s all about self-expression and community.
+
+**Competitive Rounds:**
+Following the open mic session, we move into the competitive phase of the Poetry and Prose Slam. In these three competitive rounds, participants will have the chance to perform their original poems and prose pieces with the aim of impressing our judges and the audience. Your performance, both in terms of the content and delivery, will be evaluated. A minimum of three pieces will be required. Separate prizes for poetry and prose will be awarded!
+
+## Rules
+* **No props or accompaniment**: Performers should not wear any costumes or use props during their performance. The use of musical instruments, backing tracks, or sound effects is also not permitted.
+* **Original Works Only**: All pieces performed must be original creations of the participants.
+* **Time Limit**: Performers are required to adhere to a time limit of five minutes for their performances.
+* **Registration Deadline**: Participants must register in advance by a specified deadline. Late registrations may not be accepted.
+
+## Schedule
+
+### 4:00 PM - Welcome Speech / Land Acknowledgement
+- Explanation of the rules for the poetry slam.
+- Introduction of non-competitive and competitive sign-up sheets for those interested in performing.
+
+### 4:10 PM - Open Mic
+- Open stage for poetry and prose performances.
+
+### 5:00 PM - Competitive Poetry Slam (3 poems per person)
+
+### 6:15 PM - Judges Deliberation
+- Judges discuss and decide on the winners.
+
+### 6:25 PM - Winner Announcement and Closing Ceremony
+- Announcement of the winners.
+- Distribution of prizes.
+- Closing ceremony.
+
+### 6:30 PM - Event Ends
+
+Join us at West Gate Social for a night of poetry, performance, and passion. This is your chance to shine, share, and maybe even win! 🌟✨
 
 ---
 
