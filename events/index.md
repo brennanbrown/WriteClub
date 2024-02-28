@@ -4,7 +4,7 @@ permalink: /events/
 title: Events
 ---
 
-![Poster for the Open-Mic Event](https://i.ibb.co/7J7bVbw/Open-Mic-Night.jpg)
+![Poster for the Open-Mic Event](https://i.ibb.co/yRMg2vR/Open-Mic-Night.jpg)
 
 # Open-Mic at West Gate Social
 
@@ -18,13 +18,12 @@ Get ready for an afternoon filled with creativity and expression! Write Club, in
 This open-mic event is a platform for you to share your voice, your stories, and your talent. It's a gathering of minds and expressions, where everyone is welcome to perform or just enjoy the show. Here’s what to expect:
 
 **Open Mic Session:**
-The heart of the event is our open mic session, where participants are invited to take the stage. Whether it's poetry, prose, or any form of spoken word, this is your moment in the spotlight. It's a supportive and inclusive environment, perfect for those looking to showcase their work, practice their performance skills, or simply share a piece of themselves. No competition, just pure expression.
+The heart of the event is our open mic session, where participants are invited to take the stage. Whether it's spoken word, stand-up comedy, or stand-up comedy, this is your moment in the spotlight. It's a supportive and inclusive environment, perfect for those looking to showcase their work, practice their performance skills, or simply share a piece of themselves. No competition, just pure expression.
 
 ## Rules
 * Open to All: Professors, students, alumni, and guests are all welcome to perform or attend.
 * Time Limit: Each performer is given a time limit of five minutes to share their work.
 * Bring Your Best: While the event is non-competitive, we encourage you to bring your passion and creativity to the stage.
-* Free Drinks!: If you are a performer, you get one free drink courtesy of SAMRU.
 
 ## Schedule
 
