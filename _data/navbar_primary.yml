@@ -8,17 +8,20 @@ center:
   - title: About
     url: /about/
 
-  - title: Fiction
-    url: /category/fiction/
-
-  - title: Poetry
-    url: /category/poetry/
-
-  - title: Non-Fiction
-    url: /category/nonfiction/
+  - title: Writings
+    dropdown:
+      - title: Fiction
+        url: /category/fiction/
+      - title: Poetry
+        url: /category/poetry/
+      - title: Non-Fiction
+        url: /category/nonfiction/
 
   # - title: Travel
   #   url: /category/travel/
+
+  - title: Events
+    url: /events
 
   - title: Contributors
     url: /contributors
