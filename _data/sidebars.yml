@@ -1,7 +1,7 @@
 # Page sidebar widgets
 page:
   - widget: recent
-    title: RECENT ARTICLES
+    title: RECENT WRITINGS
     count: 8
 
   - widget: categories

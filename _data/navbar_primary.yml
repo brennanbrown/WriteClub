@@ -9,6 +9,7 @@ center:
     url: /about/
 
   - title: Writings
+    url: /blog/
     dropdown:
       - title: Fiction
         url: /category/fiction/
