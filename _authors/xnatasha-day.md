@@ -8,4 +8,3 @@ instagram:      https://instagram.com/a.nat.day
 ---
 
 Natasha was born and raised in Guadalajara, Mexico. When she was 14, she went to boarding school in Texas to learn English, following that, she moved to Calgary and finished high school here. She an amazing partner, Francisco, and her daughter is the love of her life, Amèlie.
-

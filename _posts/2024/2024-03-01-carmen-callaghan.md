@@ -1,0 +1,58 @@
+---
+title: Carmen Callaghan and the Terrifying Tablecloth Tourists
+image: https://i.ibb.co/Wzk0sjs/DALL-E-2024-03-09-10-15-49-Create-a-rougher-more-abstract-watercolor-painting-depicting-a-dark-and-s.webp
+categories: [fiction]
+tags: []
+description:
+author: sean
+hidden: false
+---
+
+When Carmen Callaghan finally woke up, she felt as though the world was spinning. Probably because she was actually spinning. Suspended by thick mariner’s rope, Carmen faced a bleak, concrete wall, then part of another bleak, concrete wall, a man standing right in front of her, and back to the walls again. Her head hurt. It wasn’t the usual cerebral grudge against all the cheap booze and cheap skunk Carmen used to blot out the realities of living, but this was sharp and boiling.
+
+The pain throbbed her into the present moment. She saw the man again and tried to ask him about her current situation, but the ball gag produced only a muffled groan that got his attention. The man looked odd to Carmen, and not because he was somehow standing on the ceiling. He wore a dinner jacket with a matching black bowtie, a much more respectable look than anyone Carmen would voluntarily associate with. What perplexed Carmen further was the fact that she could smell the comforting but still, septic stench of the Wren Island City docks.
+
+Fancy suit, standing on the ceiling…The hamster wheel inside Carmen’s head slowly chugged to life. Vampire. Only a vampire could walk about the ceiling as easy as he could on the—oh wait no. Carmen looked up to find a grimy cement floor, putting two and two together, the brilliant detective now realised she was actually the one upside down. He still could be a vampire though.  
+
+The man grasped the rope, halting Carmen’s centrifugal tour of the abandoned dockside warehouse. Carmen’s vision pieced itself back together and she could see objects that were farther than ten feet away. Behind the man was a gathering of people talking, laughing, and taking polaroid photos of the person next to them. They all hunched over a metal table clad with scented candles, and one of those red-and-white-checkered tablecloths that wasn’t quite plastic and not quite any other material. What was that material? Her mum back in Cardiff had the exact same—the man bent down to address his captive, rudely interrupting Carmen’s runaway train of thought.
+
+“Would it be totally cliché if I said that you were joining us for dinner, and that you are to be the guest of honour?” The man’s Chicago accent salted Carmen’s eardrums. She nodded in agreement through the wincing.
+
+“Mmmmfggg hhmmmauuuu.” Carmen said, ‘Have we met before?’ was what she tried to say.
+
+“Why do they always try to talk?” He said to the table, prompting a hearty mid-western chuckle from all of them. “What do y’all say? Shall we hear her out? Grant her some final words?” The diners slapped their palms on the table, the man took that as confirmation and pushed the little tab, letting the gag loose.
+
+Carmen spat out the red ball covered in her saliva. She focused on the dinner guests, and they licked their lips, anticipating their supper. They all focused on her too, drooling, and howling. Literally drooling and howling. Recollection of the last 24 hours slapped Carmen in her frontal lobe. Oh god I know what these people are. She looked up, well down for her, towards the roof. A skylight exhibited a full moon. Carmen examined the table. Underneath the “I went to Wren Island and all I got was this lousy shirt” t-shirts were tufts of fur. Novelty Canadian flag sunglasses were removed to illuminate bright yellow eyes. Canis erectus. Werewolves. Werewolf tourists.
+
+The man gave Carmen a slight nudge and sent her slowly spinning again. The table laughed. The strangely calming rotation of the rope jolted her memory. That morning, Carmen had been hired by Wren Island City Police, again, to investigate a mysterious murder, again, believed to be the work of something that went bump in the night, again. Carmen’s memories slowly sobered up. Parts of a body mixing with the surf at Tituba beach. The smell of brining flesh and the screech of seagulls. More parts farther down towards the pier. ‘Musta been some kinda animal,’ the coroner concluded. If there had been a TV camera, Carmen would have looked into it and winked. Carmen got to work, started sniffing around, asking the wrong people the wrong kind of questions. She met her contact in the city’s werewolf community and was assured that it was not one of them. After a day of cold leads and a bunch of I ain’t seen nothin’, she began walking home, hoping to drink and sleep on it. She was pondering down the dingy, over-priced streets of the Wren Island City boardwalk, when a man approached her. He picked her up by the neck—dinner and a movie first, sailor—and threw her against an alleyway wall. That was all she could remember. Son of a gun, the man who attacked Carmen had the same toothy grin as the one in front of her.
+
+Now that Carmen had sussed out that these loud, musky tourists were werewolves, she racked her brain for their weaknesses. Silver bullets, but Carmen never carried a gun. I shouldn’t have given that silver-headed cane to my dad at Christmas, a powerful Welsh artifact that was now sitting in Harry’s golf bag. Wait. That afternoon, during a lunchtime rum and coke, Carmen’s hypothesis regarding the case was leaning towards a werewolf attack, so she went home and grabbed her dog whistle. During her hazy awakening a few moments ago, Carmen thought she had got a twig—or more likely—a human finger bone stuck in her shoe. In fact, it was the whistle, a fantastically convenient weapon against slathering dog-people.
+
+“Look, you lot are making a bloody big mistake—” Carmen spun facing away from her captive audience, she sighed waiting to face them again. The rope creaking echoed through the silent warehouse, after a moment of them staring at her, she faced them again, “I am a registered private investigator hired by the Wren Island City Police Service.” Carmen fumbled in her back pocket with zip-tied hands, producing a wallet. Tucked behind a see-through slot, she waved her British Columbia Security Worker Licence. This didn’t have any effect on the man as he scoffed and walked away, letting Carmen spin away from him.
+
+The man swaggered over to a fridge near Carmen. Inside were bottles of Coke, a few severed human heads, and some yogurts. “I know this ain’t the main course, but I thought we could use some appetizers!” The man lifted the heads that were on a wooden platter like morbid charcuterie, the diners barked and whined for their grub. The man served each of his six guests a severed, chilled cranium. After serving the last guest, the man took his place at the (sigh) head of the table with his own disgusting treat. In synchronization, each tourist reached inside the mouth and ripped the tongue out. Lingering on their own fingers as they gobbled the tongues down, the same way Carmen imagined they ate fried chicken on the days the moon wasn’t full. They then scooped the eyeballs out and slurped the wound, sucking and licking for the juices inside.
+
+Whilst they were all distracted, Carmen shuffled her feet around exposing the whistle. She shook her foot, trying to wiggle the instrument free from her sock. She took a deep breath and reached up to grab it, cursing every second her abdomen strained. Carmen considered herself to be in decent shape, maybe not in shape, but something close to it. Perhaps she could cut down on the lunchtime drinks, and maybe even the mid-afternoon drinks. She plucked the whistle from her sock just as her core gave up. The last grunt could have rivaled any tennis player, grabbing the attention of her soon-to-be butchers.
+
+The fancy man jumped from his seat and rushed his main course. Carmen put the whistle in her mouth, tasting sweat but still better than the teeth-marked ball gag from earlier. She barely heard the high-pitched screech that blasted the ears of the werewolves. They all slapped their hands over their ears and howled to drown out the noise.
+
+Carmen untied the knots in the rope and fell to the ground. She wasn’t going to land on her head after being tied upside down this time (don’t ask), so she had the foresight to tuck her noggin in and land on her shoulders as the rope slithered loose. Carmen picked herself up and took off running, still blowing the whistle until her lungs reminded her it wasn’t a good idea to continuously exhale and sprint at the same time. Carmen removed the whistle, clenching it tight in her still zipped up hands. As soon as she stopped, the pained howls turned into gnashing barks as at the other end of the warehouse, the tourists contorted into their canid shapes. She barged through a metal door and slammed it shut, just in time for a fully-formed werewolf to crash headfirst and dent the steel. Carmen ran the only way she could, farther down the dockyard. She concentrated on the sound of her breath, then the click of claws on water-soaked asphalt. Carmen looked back. The wolves funnelled out of the warehouse. All yellow eyes aimed at her.
+
+OhDearOhDearOhDearOhDearOhDear. Carmen kept sprinting. She was running out of pier. Wolves were behind her, and two galloped along her flanks. The one on her right sped up and was ahead of her, it thrusted itself forward and before Carmen knew it, she was barely a metre away from the maw of the wolf. She skidded to a stop and held out the whistle like the gun or silver-headed cane she didn’t have. The wolves circled her, slowing down to a menacing crawl.
+
+A howl pierced the air. The wolves stopped. They looked around, as confused as Carmen was terrified. That sounded familiar. Carmen’s neck was suddenly warm. Something was right behind her. She turned around to face it. Standing over a foot taller than her, a thick, grey fur coat and two yellow eyes staring back at her. She knew those eyes. Sylvie, her contact in the werewolf community. Sylvie looked down at Carmen, then to the wolves snarling at her now. The hassles on her back flared up.
+
+“Friggin’ tourists.” Sylvie’s soft, growling voice a relief to Carmen. More howls. All around them tall, dark silhouettes slid out from over rooftops and out of shadowed corners.
+“How on Earth did you find me?” Carmen forced words out through the chattering of her teeth.
+
+“Well, you figured it was werewolves, so I started lookin’ around myself and Reggie got the scent of another pack, only that it also had a strange smell, like fried chicken or something. Figured we’d check it out.”
+
+I knew it.
+
+The American werewolves didn’t know what to do. They converged together, forming a defensive circle but were whimpering as they did so and tails between their legs. Sylvie skulked towards the crowd.
+
+“You guys are hunters too, why aren’t you ripping her apart?” Carmen couldn’t tell by looks which wolf was which, but the voice was that of the mysterious host, only deeper and with a sharp barking finish to the Chicago accent.
+
+“You tourists are all the same. Look, we have rules around here. Laws.” Sylvie grabbed the Yankee wolf by the tuft on the nape of his neck, like a mother grabbing her cub. “And when you break those rules, there are consequences.” Sylvie’s pack fully encircled the trespassers.
+
+Carmen sparked a joint she fished from her jacket pocket, and slowly retreated to give Sylvie and her pack some room. Carmen slipped away, she needed a drink and a toke in the comfort of her own home. The pained yowling echoed among the shipping containers as the full moon lit her way back to the city.
