@@ -15,7 +15,7 @@
     <br />
     <strong><a href="https://forms.gle/wopJW1kj2yibJ1Tn8">Apply Now</a></strong>
     ·
-    <a href="https://marketing.brennanbrown.ca">The Founder's Portfolio</a>
+    <a href="https://brennanbrown.ca">The Founder's Portfolio</a>
     ·
     <a href="https://github.com/brennanbrown/WriteClub/issues">Request Feature</a>
   </p>
@@ -72,7 +72,7 @@ Time: 4:30pm - 6:30pm
 
 ### Join Our Community
 
-If you're interested, either contact the current President, Kenneth (403.401.2718 / bbrow477@mtroyal.ca) or fill out this [**Google Form**](https://forms.gle/zxtW6GbomK14iWVD6) and you'll be invited to join our Discord server and shared Google Drive! If you'd like to learn a little more about the founder, Kenneth, you can view some of [his work here](https://bkpoetry.com) and [here](https://wandernotebook.com), he also has [several books available on Amazon](https://www.amazon.ca/s?i=stripbooks&rh=p_27%3ABrennan+Kenneth+Brown&s=relevancerank&text=Brennan+Kenneth+Brown).
+If you're interested, either contact the current President, Kenneth (403.401.2718 / bbrow477@mtroyal.ca) or fill out this [**Google Form**](https://forms.gle/zxtW6GbomK14iWVD6) and you'll be invited to join our Discord server and shared Google Drive! If you'd like to learn a little more about the founder, Kenneth, you can view some of [his work here](https://bkpoetry.com) and [here](https://blog.brennanbrown.ca), he also has [several books available on Amazon](https://www.amazon.ca/s?i=stripbooks&rh=p_27%3ABrennan+Kenneth+Brown&s=relevancerank&text=Brennan+Kenneth+Brown).
 
 ![Site Screen Shot](https://i.postimg.cc/BnPNFnr0/mruwriteclub.jpg)
 
