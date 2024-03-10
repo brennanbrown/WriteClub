@@ -1,3 +1,11 @@
+# This Ruby script is part of the Write Club's GitHub repository.
+# It recursively counts the words in each .md file within a specified directory and its subdirectories,
+# then outputs the total word count.
+#
+# The script is designed to be run from the command line by providing the directory path as an argument.
+# For example:
+#   ruby word_count.rb path/to/your/directory
+
 require 'find'
 
 def word_count(file_path)

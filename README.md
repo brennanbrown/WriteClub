@@ -10,7 +10,7 @@
   <p align="center">
     A safer space for writers of all kinds and experience.
     <br />
-    <a href="https://writeclube.ca"><strong>Visit the website!</strong></a>
+    <a href="https://writeclub.ca"><strong>Visit the website!</strong></a>
     <br />
     <br />
     <strong><a href="https://forms.gle/wopJW1kj2yibJ1Tn8">Apply Now</a></strong>
