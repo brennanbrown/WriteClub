@@ -4,44 +4,7 @@ permalink: /events/
 title: Events
 ---
 
-![Poster for the Open-Mic Event](https://i.ibb.co/yRMg2vR/Open-Mic-Night.jpg)
-
-# Open-Mic at West Gate Social
-
-Get ready for an afternoon filled with creativity and expression! Write Club, in collaboration with the Faculty of Arts, invites you to an open-mic event that promises to be a celebration of talent and community. Whether you're a professor, student, alumni, or simply someone who loves the arts, this is your stage!
-
-**Venue**: West Gate Social
-
-**Date**: Wednesday, April 3, 2024
-
-**How It Works:**
-This open-mic event is a platform for you to share your voice, your stories, and your talent. It's a gathering of minds and expressions, where everyone is welcome to perform or just enjoy the show. Here’s what to expect:
-
-**Open Mic Session:**
-The heart of the event is our open mic session, where participants are invited to take the stage. Whether it's spoken word, stand-up comedy, or stand-up comedy, this is your moment in the spotlight. It's a supportive and inclusive environment, perfect for those looking to showcase their work, practice their performance skills, or simply share a piece of themselves. No competition, just pure expression.
-
-## Rules
-* Open to All: Professors, students, alumni, and guests are all welcome to perform or attend.
-* Time Limit: Each performer is given a time limit of five minutes to share their work.
-* Bring Your Best: While the event is non-competitive, we encourage you to bring your passion and creativity to the stage.
-
-## Schedule
-
-### 3:00 PM - Event Begins
-- Opening remarks and a brief overview of the event's flow.
-- Introduction of the open mic session and encouragement for all to participate.
-
-### 3:10 PM - Open Mic Session
-- Participants take the stage to perform their pieces. A vibrant mix of poetry, prose, and spoken word is anticipated.
-
-### 5:00 PM - Event Ends
-- Closing remarks and a thank you to all participants and attendees for creating a memorable afternoon.
-
-Come perform or watch, and let's celebrate the power of words together at West Gate Social!
-
----
-
-![Poster for the Poetry Slam in March at MRU](https://i.ibb.co/N9rpGjL/poetry-slam-march.jpg" alt="poetry-slam-march)
+![Poster for the Poetry Slam in March at MRU](https://i.ibb.co/N9rpGjL/poetry-slam-march.jpg)
 
 # Poetry Slam at West Gate Social
 
@@ -90,6 +53,86 @@ Following the open mic session, we move into the competitive phase of the Poetry
 ### 6:30 PM - Event Ends
 
 Join us at West Gate Social for a night of poetry, performance, and passion. This is your chance to shine, share, and maybe even win! 🌟✨
+
+---
+
+![Poster for the Anthology Lanch Party](https://i.ibb.co/Y8pNMZy/Book-Launch-Taboo-Anthology.png)
+
+# 📣🎉 Announcement: Write Club Mount Royal Fall University Anthology Launch Party! 📚🚀
+
+## On the Fringe: A Collection of Filth
+- **Location:** The Knuckle: EA3001 & EA 3003
+- **Date:** March 26, 2024
+- **Time:** 4:00 PM to 6:00 PM
+
+🍰 **Free Cake Will Be Available!** 🍰
+
+Join us for an evening of literary revelry as we celebrate the launch of the inaugural issue of our taboo anthology, *On the fringe: a collection of Filth*. This anthology, exploring the theme of "taboo," is strictly 18+, delving into the depths of the human experience in all its raw and unfiltered glory. 🐍
+
+Thank you to the publishing committee for pouring their hearts and souls into the anthology, and now it's time to share it with all of you! Please come to listen to readings or to grab a copy of the book! 📚 There will be a collection of poetry, fiction, and non-fiction readings.
+
+👏 **Special thanks to:**
+
+- 📖 **VP of Publications:** Danaë Webb
+- 📚 **Publishing Committee:** Ben Curtis, Danaë Webb, Felix Da Costa Gomez, Jake Beka, Kailynn Finick
+
+And a heartfelt appreciation to all the talented authors and poets whose work graces the pages of our anthology:
+
+- 📖 Bailey Wilson
+- 📖 B.B. Curtis
+- 📖 B. Kenneth Brown
+- 📖 Chandler Christie
+- 📖 Connie Yu
+- 📖 Danaë Webb
+- 📖 Eddy Picazo
+- 📖 Felix Da Costa Gomez
+- 📖 Jake Beka
+- 📖 Jana Tzanakos
+- 📖 Kailynn Finck
+- 📖 Levi Lewko
+- 📖 Marcus Vertodazo
+- 📖 Mel Perez
+
+**Please come to our anthology launch party for our first issue! See you there!**
+
+**Note:** This event is open to all members of the Write Club Mount Royal community, alumni, and anyone else over the age of 18 who would like to come!
+
+---
+
+![Poster for the Open-Mic Event](https://i.ibb.co/yRMg2vR/Open-Mic-Night.jpg)
+
+# Open-Mic at West Gate Social
+
+Get ready for an afternoon filled with creativity and expression! Write Club, in collaboration with the Faculty of Arts, invites you to an open-mic event that promises to be a celebration of talent and community. Whether you're a professor, student, alumni, or simply someone who loves the arts, this is your stage!
+
+**Venue**: West Gate Social
+
+**Date**: Wednesday, April 3, 2024
+
+**How It Works:**
+This open-mic event is a platform for you to share your voice, your stories, and your talent. It's a gathering of minds and expressions, where everyone is welcome to perform or just enjoy the show. Here’s what to expect:
+
+**Open Mic Session:**
+The heart of the event is our open mic session, where participants are invited to take the stage. Whether it's spoken word, stand-up comedy, or stand-up comedy, this is your moment in the spotlight. It's a supportive and inclusive environment, perfect for those looking to showcase their work, practice their performance skills, or simply share a piece of themselves. No competition, just pure expression.
+
+## Rules
+* Open to All: Professors, students, alumni, and guests are all welcome to perform or attend.
+* Time Limit: Each performer is given a time limit of five minutes to share their work.
+* Bring Your Best: While the event is non-competitive, we encourage you to bring your passion and creativity to the stage.
+
+## Schedule
+
+### 3:00 PM - Event Begins
+- Opening remarks and a brief overview of the event's flow.
+- Introduction of the open mic session and encouragement for all to participate.
+
+### 3:10 PM - Open Mic Session
+- Participants take the stage to perform their pieces. A vibrant mix of poetry, prose, and spoken word is anticipated.
+
+### 5:00 PM - Event Ends
+- Closing remarks and a thank you to all participants and attendees for creating a memorable afternoon.
+
+Come perform or watch, and let's celebrate the power of words together at West Gate Social!
 
 ---
 
