@@ -12,6 +12,8 @@ title: Events
 
 ## [See the Judging Rubric HERE!](https://writeclub.ca/Rubric-Poetry.pdf)
 
+### NOTE: All welcome! Students and Non-student alike!
+
 **Venue**: West Gate Social
 
 **Date**: Thursday, March 21, 2024
