@@ -44,7 +44,7 @@
 
 Mount Royal University’s Creative Writing Club is dedicated to nurturing the literary talents of our community in a safe and inclusive environment. Whether you’re an experienced writer or a beginner embarking on your creative journey, our club offers a supportive space for you to hone your craft, share your work, and connect with like-minded individuals. Please read our [Code of Conduct](https://writeclub.ca/terms/)!
 
-## Our Meetings for Fall 2023
+## Our Meetings for Fall and Winter 2023
 
 Venue: MRU Clubhouse (Z306)
 Frequency: Every Wednesday
