@@ -8,8 +8,8 @@ Mount Royal University’s Creative Writing Club is dedicated to nurturing the l
 
 ## Our Meetings for Spring 2024
 
-Venue: **EA3115**, on the 3rd floor of the EA Building
-Frequency: Every Wednesday
+Venue: **EA3115**, on the 3rd floor of the EA Building  
+Frequency: Every Wednesday  
 Time: 4:30pm - 6:30pm
 
 Our weekly meetings will resume this week on Wednesday, May 8th and will continue through the summer until August 14th. Join us every Wednesday from 4:30 PM to 6:30 PM in the Makoi Yohosokyi (The Wolf Trail-Milky Way) Room EA3115, which is located on the 3rd floor of the EA Building. Please note, this is a change from our usual location due to renovations in the Clubhouse at the Wyckham building.
