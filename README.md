@@ -44,6 +44,16 @@
 
 Mount Royal University’s Creative Writing Club is dedicated to nurturing the literary talents of our community in a safe and inclusive environment. Whether you’re an experienced writer or a beginner embarking on your creative journey, our club offers a supportive space for you to hone your craft, share your work, and connect with like-minded individuals. Please read our [Code of Conduct](https://writeclub.ca/terms/)!
 
+## Our Meetings for Spring 2024
+
+Venue: **EA3115**, on the 3rd floor of the EA Building
+Frequency: Every Wednesday
+Time: 4:30pm - 6:30pm
+
+Our weekly meetings will resume this week on Wednesday, May 8th and will continue through the summer until August 14th. Join us every Wednesday from 4:30 PM to 6:30 PM in the Makoi Yohosokyi (The Wolf Trail-Milky Way) Room EA3115, which is located on the 3rd floor of the EA Building. Please note, this is a change from our usual location due to renovations in the Clubhouse at the Wyckham building.
+ 
+These spring and summer meetings are designed to be smaller, more relaxed, and casual—perfect for chilling out and getting those creative juices flowing. Whether you’re taking classes this spring or not, whether you're an alum or not even a Mount Royal University student, all are welcome to join and participate!
+
 ## Our Meetings for Fall and Winter 2023
 
 Venue: MRU Clubhouse (Z306)
