@@ -6,15 +6,15 @@
   <meta property="og:image"
     content="{% if site.brand.image contains 'http' %}{{ site.brand.image }}{% else %}{{ site.uploads | absolute_url }}{{ site.brand.image }}{% endif %}" />
   {% include head-custom.html %}
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}">
   <link rel="shortcut icon" type="image/png" href="{{ site.uploads | relative_url }}favicon.png">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.uploads | relative_url }}/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.uploads | relative_url }}/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ site.uploads | relative_url }}/favicon-16x16.png">
   <link rel="manifest" href="{{ site.uploads | relative_url }}/site.webmanifest">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}"
-    href="{{ "/feed.xml" | relative_url }}">
-  <script src="{{ "/assets/js/main.min.js" | relative_url }}"></script>
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ " /feed.xml" |
+    relative_url }}">
+  <script src="{{ " /assets/js/main.min.js" | relative_url }}"></script>
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
@@ -29,7 +29,9 @@
   <meta property="og:title" content="MRU's Creative Writing Club">
   <meta property="og:description"
     content="Mount Royal University's Creative Writing Club is a safer space for writers of all kinds and experience, both for a place to work and a place to (optionally) share, as well as offering prompts, activities, exercises, and sharing resources.">
-  <meta property="og:image" content="https://i.ibb.co/VLBvGqF/Write-Club-MRU.png">
+  <meta property="og:image"
+    content="https://camo.githubusercontent.com/9cbafa519a54262129012f97b44f097346a3fd8bd21d1c0176eff2768e8f09f0/68747470733a2f2f692e706f7374696d672e63632f426e504e466e72302f6d72757772697465636c75622e6a7067">
+  <meta property="og:site_name" content="Write Club of Mount Royal University" />
 
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
