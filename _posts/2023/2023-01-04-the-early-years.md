@@ -4,7 +4,7 @@ image: https://i.ibb.co/VBZNgQW/DALL-E-2023-01-22-16-00-45-the-silhouette-of-a-g
 categories: [poetry]
 tags: []
 description: 
-author: em
+author: theo
 hidden: false
 ---
 
