@@ -2,6 +2,8 @@
 layout: full
 ---
 
+{% include section-ad.html image="hero2.jpg" alt="New! Buy our first anthology!" width="" url="https://www.amazon.ca/Fringe-Collection-Filth-Dana%C3%AB-Webb/dp/B0CYQ1NRY9" blank="true" %}
+
 {% include section-ad.html image="hero.jpg" alt="Sign up to our club now!" width="" url="https://forms.gle/Ac2X8ArAKXX4zHwK8" blank="true" %}
 
 <!-- {% include section-featured.html title="Featured Story" %}
