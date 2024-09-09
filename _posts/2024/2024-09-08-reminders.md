@@ -8,7 +8,7 @@ author: emma-m
 hidden: false
 ---
 
-**I'm reminded of Jace…**
+**I'm reminded of Jace…**  
 At the crosswalk by the hockey rink I first saw him play  
 Barely able to stay standing on his own two feet  
 Creating distance from his old self to his new  
