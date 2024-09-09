@@ -1,7 +1,7 @@
 ---
 title:          Theo Brown
 username:       theo
-image:          https://i.ibb.co/wdc74Gq/IMG-8848.png
+image:          https://www.pphfoundation.ca/wp-content/uploads/2018/05/default-avatar-600x600.png
 bio:            
 email:          
 website:        https://for-all-the-words-not-said.tumblr.com/ 
