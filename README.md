@@ -48,7 +48,7 @@ If you're interested in joing Write Club, please fill out this [**Google Form**]
 
 ## Our Meetings for Fall 2024
 
-Venue: **MRU Clubhouse - Z306** ([3rd floor of the Wyckham House](https://www.mtroyal.ca/AboutMountRoyal/CampusesTours/CampusLocations/campus-map.htm)) 
+Venue: **MRU Clubhouse - Z306** ([3rd floor of the Wyckham House](https://www.mtroyal.ca/AboutMountRoyal/CampusesTours/CampusLocations/campus-map.htm))  
 Frequency: Every Wednesday  
 Time: 4:30pm - 6:30pm
 
