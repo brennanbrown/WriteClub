@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/brennanbrown/WriteClub">
-    <img src="https://i.postimg.cc/T2r6VRXn/android-chrome-512x512.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/YtR5vx7/writeclub.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mount Royal University's Creative Writing Club</h3>
