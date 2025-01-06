@@ -55,7 +55,7 @@ collections:
 
       - name: "events"
         label: "Events Page"
-        file: "events.md"
+        file: "events/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Permalink", name: "permalink", widget: "string" }
