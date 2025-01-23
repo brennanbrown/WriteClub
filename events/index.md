@@ -4,6 +4,53 @@ permalink: /events/
 title: Events
 ---
 
+![Poster for the Poetry Slam in January at MRU](https://i.ibb.co/W3ph48m/Black-and-Beige-Grunge-Open-Mic-Music-Event-Invitation-Instagram-Story-Instagram-Post.png)
+
+# Poetry Slam at West Gate Social
+🎤📚 WRITE CLUB PRESENTS: NEW YEAR, NEW VOICES! 📚🎤 Kick off 2025 with a night of poetry and performance at our first Open Mic & Poetry Slam! 🌟 ALL PERFORMERS GET FREE DRINKS! 🎶✨
+
+### NOTE: All welcome! Students and Non-student alike!
+
+**Venue**: West Gate Social
+**Date**: Wednesday, January 22nd, 2025
+**Time**: 6:00 - 9:00 PM
+
+**How It Works:**
+Participants will have the opportunity to perform their original poems or prose pieces. It's not just about the words; it's about the performance! Get ready to captivate the audience with your delivery. Here's how the event will unfold:
+
+**Open Mic Session:**
+We're kicking off the evening with an open mic session that invites all participants to take the stage and share their poetry or prose. This is a casual and inclusive segment, perfect for those who want to test the waters, gain some experience, or simply share their work without the competitive aspect. There's no judging in this phase; it's all about self-expression and community.
+
+**Competitive Rounds:**
+Following the open mic session, we move into the competitive phase of the Poetry and Prose Slam. In these three competitive rounds, participants will have the chance to perform their original poems and prose pieces with the aim of impressing our judges and the audience. Your performance, both in terms of the content and delivery, will be evaluated. A minimum of three pieces will be required. The winner will receive a $25 gift card to @shelflifebooks!
+
+## Rules
+* **No props or accompaniment**: Performers should not wear any costumes or use props during their performance. The use of musical instruments, backing tracks, or sound effects is also not permitted.
+* **Original Works Only**: All pieces performed must be original creations of the participants.
+* **Time Limit**: Performers are required to adhere to a time limit of five minutes for their performances.
+* **Registration Deadline**: Participants must register in advance by a specified deadline. Late registrations may not be accepted.
+
+## Schedule
+### 6:00 PM - Welcome & Sign-ups
+- Introduction and explanation of rules
+- Sign-up for both non-competitive and competitive sections
+
+### 6:15 PM - Open Mic Session
+- Open stage for poetry and prose performances
+
+### 7:15 PM - Poetry Slam Competition
+- Three rounds of competitive performances
+
+### 8:45 PM - Judges Deliberation
+- Judges discuss and decide on the winners
+
+### 9:00 PM - Event Ends
+- Winner announcement and prize distribution
+
+Join us at West Gate Social for a night of poetry, performance, and passion. This is your chance to shine, share, and maybe even win! 🌟✨
+
+---
+
 ![Poster for the Poetry Slam in March at MRU](https://i.ibb.co/N9rpGjL/poetry-slam-march.jpg)
 
 # Poetry Slam at West Gate Social
