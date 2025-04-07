@@ -1,5 +1,5 @@
 ---
-title:          Constance Yu
+title:          Connie Yu
 username:       constance
 image:          https://i.ibb.co/t34q8g0/connie.jpg
 bio:            
