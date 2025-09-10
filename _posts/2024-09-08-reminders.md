@@ -2,7 +2,7 @@
 title: Reminders
 image: https://i.ibb.co/FJVXBBy/DALL-E-2024-09-08-21-14-02-A-sketchy-rough-watercolor-painting-that-reflects-the-heartfelt-tone-of-t.webp
 categories: [poetry]
-tags: []
+tags: [spotlight]
 description:
 author: emma-m
 hidden: false

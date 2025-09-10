@@ -9,8 +9,8 @@
 <div class="uk-container uk-margin-medium-bottom">
   <div class="uk-child-width-1-2@s uk-child-width-expand@l uk-grid-medium uk-flex-center uk-grid-divider" data-uk-grid>
     {% for post in site.posts %}
-      {% if post.tags contains 'spotlight' %}
-        {% include content-media-top.html %}
+      {% if post.tags contains 'spotlight' and post.hidden != true and post.author != 'kenneth' %}
+        {% include content-media-left-1-3.html text_only=true %}
       {% endif %}
     {% endfor %}
   </div>
