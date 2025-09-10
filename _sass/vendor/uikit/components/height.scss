@@ -1,3 +1,5 @@
+@use "sass:meta";
+
 // Name:            Height
 // Description:     Utilities for heights
 //
@@ -9,16 +11,13 @@
 // Variables
 // ========================================================================
 
-$height-small-height:                            150px !default;
-$height-medium-height:                           300px !default;
-$height-large-height:                            450px !default;
 
 
 /* ========================================================================
    Component: Height
  ========================================================================== */
 
-[class*='uk-height'] { box-sizing: border-box; }
+[class*="uk-height"] { box-sizing: border-box; }
 
 /*
  * Only works if parent element has a height set
@@ -31,6 +30,9 @@ $height-large-height:                            450px !default;
  */
 
 .uk-height-viewport { min-height: 100vh; }
+.uk-height-viewport-2 { min-height: 200vh; }
+.uk-height-viewport-3 { min-height: 300vh; }
+.uk-height-viewport-4 { min-height: 400vh; }
 
 /*
  * Pixel
@@ -49,6 +51,6 @@ $height-large-height:                            450px !default;
 // Hooks
 // ========================================================================
 
-@if(mixin-exists(hook-height-misc)) {@include hook-height-misc();}
+@if(meta.mixin-exists(hook-height-misc)) {@include hook-height-misc();}
 
 // @mixin hook-height-misc(){}

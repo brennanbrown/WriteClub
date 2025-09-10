@@ -1,3 +1,5 @@
+@use "sass:meta";
+
 // Name:            Leader
 // Description:     Component to create dot leaders
 //
@@ -9,8 +11,6 @@
 // Variables
 // ========================================================================
 
-$leader-fill-content:                            unquote('.') !default;
-$leader-fill-margin-left:                        $global-small-gutter !default;
 
 
 /* ========================================================================
@@ -36,7 +36,7 @@ $leader-fill-margin-left:                        $global-small-gutter !default;
     content: attr(data-fill);
     /* 4 */
     white-space: nowrap;
-    @if(mixin-exists(hook-leader)) {@include hook-leader();}
+    @if(meta.mixin-exists(hook-leader)) {@include hook-leader();}
 }
 
 /*
@@ -49,14 +49,13 @@ $leader-fill-margin-left:                        $global-small-gutter !default;
  * Pass fill character to JS
  */
 
-.uk-leader-fill-content::before { content: '#{$leader-fill-content}'; }
-:root { --uk-leader-fill-content: $leader-fill-content; }
+:root { --uk-leader-fill-content: #{$leader-fill-content}; }
 
 
 // Hooks
 // ========================================================================
 
-@if(mixin-exists(hook-leader-misc)) {@include hook-leader-misc();}
+@if(meta.mixin-exists(hook-leader-misc)) {@include hook-leader-misc();}
 
 // @mixin hook-leader(){}
 // @mixin hook-leader-misc(){}
