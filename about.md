@@ -12,7 +12,7 @@ Mount Royal University’s Creative Writing Club is dedicated to nurturing the l
 
 If you're interested in joing Write Club, please fill out this [**→ Google Form ←**](https://forms.gle/zxtW6GbomK14iWVD6) (*note:* you'll need to be logged in to your @mtroyal.ca email account!) and you'll be invited to join our Discord server and shared Google Drive! Please don't forget to also [follow us on Instagram](https://instagram.com/writeclubmru) for the latest updates!
 
-## Our Meetings for Winter 2025
+## Our Meetings for Fall 2025
 
 Venue: **MRU Clubhouse - Z306** ([3rd floor of the Wyckham House](https://www.mtroyal.ca/AboutMountRoyal/CampusesTours/CampusLocations/campus-map.htm))  
 Frequency: Every Wednesday  
@@ -49,4 +49,4 @@ Check out our [event page](/events) and Instagram for more details!
 
 ### About the Founder
 
-If you'd like to learn a little more about the founder, Kenneth, you can view [him and his work here](https://brennanbrown.ca), he also has [several books available on Amazon](https://www.amazon.ca/s?i=stripbooks&rh=p_27%3ABrennan+Kenneth+Brown&s=relevancerank&text=Brennan+Kenneth+Brown).
+If you'd like to learn a little more about the founder, Kenneth, you can view [him and his work here](https://brennanbrown.ca), he also has [several books available on Amazon](https://amazon.ca/stores/Brennan-Kenneth-Brown/author/B0DQTPYKHD). He has no involvement with Write Club at this time.
