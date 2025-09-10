@@ -5,3 +5,4 @@
 [build.environment]
   RUBY_VERSION = "3.2.3"
   BUNDLER_VERSION = "2.4.5"
+  NODE_VERSION = "18"
