@@ -112,13 +112,13 @@ gem install jekyll bundler
 3. Clone this repository.
 
 ```
-git clone https://github.com/brennanbrown/watery.git
+git clone https://github.com/brennanbrown/WriteClub.git
 ```
 
 4. Change into your new directory.
 
 ```
-cd watery
+cd WriteClub
 ```
 
 5. Install gems from the `Gemfile`.

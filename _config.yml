@@ -69,6 +69,7 @@ plugins:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - Gemfile
