@@ -4,12 +4,12 @@
   "description": "Magazine Jekyll theme",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/brennanbrown/WriteClub.git"
   },
   "author": "PressApps",
-  "license": "",
+  "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/brennanbrown/WriteClub/issues"
   },
   "homepage": "https://etoile.jekyll.plus",
   "dependencies": {
