@@ -8,6 +8,29 @@
 
 <div class="{% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom">
   <div class="uk-flex uk-flex-center">
-    <a class="uk-display-block uk-position-relative {% if include.width == 'full' %}uk-width-1-1{% endif %}" href="{{ include.url }}" target="{% if include.blank %}_blank{% endif %}"><img class="{% if include.width == 'full' %}uk-width-1-1{% endif %}" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}"></a>
+    {% assign original_url = include.image %}
+    {% unless include.image contains 'http' %}
+    {% assign original_url = site.uploads | absolute_url | append: include.image %}
+    {% endunless %}
+    {% assign is_full = include.width == 'full' %}
+    <a class="uk-display-block uk-position-relative {% if is_full %}uk-width-1-1{% endif %}" href="{{ include.url }}" target="{% if include.blank %}_blank{% endif %}">
+      {% if jekyll.environment == 'production' %}
+        {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+        {% assign encoded = original_url | url_encode %}
+        {% assign fit_params = '&fit=inside&fm=webp' %}
+        {% assign w800  = base_cdn | append: encoded | append: '&w=800'  | append: fit_params %}
+        {% assign w1200 = base_cdn | append: encoded | append: '&w=1200' | append: fit_params %}
+        {% assign w1600 = base_cdn | append: encoded | append: '&w=1600' | append: fit_params %}
+        {% assign w2000 = base_cdn | append: encoded | append: '&w=2000' | append: fit_params %}
+        <img class="{% if is_full %}uk-width-1-1{% endif %}"
+             src="{% if is_full %}{{ w1600 }}{% else %}{{ w1200 }}{% endif %}"
+             srcset="{{ w800 }} 800w, {{ w1200 }} 1200w, {{ w1600 }} 1600w, {{ w2000 }} 2000w"
+             sizes="{% if is_full %}100vw{% else %}(min-width: 1200px) 1200px, 100vw{% endif %}"
+             alt="{{ include.alt }}" {% if is_full %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
+      {% else %}
+        <img class="{% if is_full %}uk-width-1-1{% endif %}"
+             src="{{ original_url }}" alt="{{ include.alt }}" {% if is_full %}loading="eager" fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async">
+      {% endif %}
+    </a>
   </div>
 </div>
