@@ -1,7 +1,24 @@
 {% if include.lightbox == 'true' %}
 <figure data-uk-lightbox="animation: slide" class="{% if include.align == 'left' %}uk-align-left@s uk-width-1-2@s{% elsif include.align == 'right' %}uk-align-right@s uk-width-1-2@s{% else %}uk-margin-medium{% endif %}">
-    <a class="uk-inline uk-light" href="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.caption %} data-caption="{{ include.caption }}"{% endif %}>
-        <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+    {% assign original_url = include.img %}
+    {% unless include.img contains 'http' %}
+    {% assign original_url = site.uploads | absolute_url | append: include.img %}
+    {% endunless %}
+    <a class="uk-inline uk-light" href="{{ original_url }}"{% if include.caption %} data-caption="{{ include.caption }}"{% endif %}>
+        {% if jekyll.environment == 'production' %}
+          {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+          {% assign fit_params = '&fit=inside&fm=webp' %}
+          {% assign encoded = original_url | url_encode %}
+          {% assign w600  = base_cdn | append: encoded | append: '&w=600'  | append: fit_params %}
+          {% assign w900  = base_cdn | append: encoded | append: '&w=900'  | append: fit_params %}
+          {% assign w1200 = base_cdn | append: encoded | append: '&w=1200' | append: fit_params %}
+          <img src="{{ w900 }}" srcset="{{ w600 }} 600w, {{ w900 }} 900w, {{ w1200 }} 1200w"
+               sizes="(min-width: 640px) 50vw, 100vw"{% if include.alt %} alt="{{ include.alt }}"{% endif %}
+               loading="lazy" decoding="async">
+        {% else %}
+          <img src="{{ original_url }}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}
+               loading="lazy" decoding="async">
+        {% endif %}
         <div class="uk-position-center">
             <span data-uk-overlay-icon></span>
         </div>
@@ -10,7 +27,25 @@
 </figure>
 {% else %}
 <figure class="{% if include.align == 'left' %}uk-align-left@s uk-width-1-2@s{% elsif include.align == 'right' %}uk-align-right@s uk-width-1-2@s{% else %}uk-margin-medium{% endif %}">
-    <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}>
+    {% assign original_url = include.img %}
+    {% unless include.img contains 'http' %}
+    {% assign original_url = site.uploads | absolute_url | append: include.img %}
+    {% endunless %}
+    {% if jekyll.environment == 'production' %}
+      {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+      {% assign fit_params = '&fit=inside&fm=webp' %}
+      {% assign encoded = original_url | url_encode %}
+      {% assign w600  = base_cdn | append: encoded | append: '&w=600'  | append: fit_params %}
+      {% assign w900  = base_cdn | append: encoded | append: '&w=900'  | append: fit_params %}
+      {% assign w1200 = base_cdn | append: encoded | append: '&w=1200' | append: fit_params %}
+      <img src="{{ w900 }}" srcset="{{ w600 }} 600w, {{ w900 }} 900w, {{ w1200 }} 1200w"
+           sizes="(min-width: 640px) 50vw, 100vw"{% if include.alt %} alt="{{ include.alt }}"{% endif %}
+           loading="lazy" decoding="async">
+    {% else %}
+      <img src="{{ original_url }}"{% if include.alt %} alt="{{ include.alt }}"{% endif %}
+           loading="lazy" decoding="async">
+    {% endif %}
     {% if include.caption %}<figcaption>{{ include.caption }}</figcaption>{% endif %}
 </figure>
 {% endif %}
+

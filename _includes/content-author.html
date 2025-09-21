@@ -2,9 +2,30 @@
   <div class="uk-card">
     <div class="uk-card-media-top">
       {% if author.image %}
-      <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle"
-          src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.uploads | absolute_url }}{{ author.image }}{% endif %}"
-          alt="{{ author.title }}"></a>
+      {% assign original_url = author.image %}
+      {% unless author.image contains 'http' %}
+      {% assign original_url = site.uploads | absolute_url | append: author.image %}
+      {% endunless %}
+      {% if jekyll.environment == 'production' %}
+        {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+        {% assign fit_params = '&fit=cover&fm=webp' %}
+        {% assign encoded = original_url | url_encode %}
+        {% assign src_128 = base_cdn | append: encoded | append: '&w=128&h=128' | append: fit_params %}
+        {% assign src_64  = base_cdn | append: encoded | append: '&w=64&h=64'   | append: fit_params %}
+        {% assign src_96  = base_cdn | append: encoded | append: '&w=96&h=96'   | append: fit_params %}
+        {% assign src_192 = base_cdn | append: encoded | append: '&w=192&h=192' | append: fit_params %}
+        {% assign src_256 = base_cdn | append: encoded | append: '&w=256&h=256' | append: fit_params %}
+        <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle"
+            src="{{ src_128 }}"
+            srcset="{{ src_64 }} 64w, {{ src_96 }} 96w, {{ src_128 }} 128w, {{ src_192 }} 192w, {{ src_256 }} 256w"
+            sizes="(min-width: 1200px) 128px, (min-width: 960px) 128px, (min-width: 640px) 96px, 64px"
+            width="128" height="128" loading="lazy" decoding="async"
+            alt="{{ author.title }}"></a>
+      {% else %}
+        <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle"
+            src="{{ original_url }}" width="128" height="128" loading="lazy" decoding="async"
+            alt="{{ author.title }}"></a>
+      {% endif %}
       {% endif %}
     </div>
     <div class="uk-card-body">

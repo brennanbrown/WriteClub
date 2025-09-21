@@ -8,9 +8,28 @@
   <div class="uk-width-1-2@m uk-card-media-left media-1-2 uk-cover-container">
     {% if post.image %}
     <a href="{{ post.url | relative_url }}">
-      <img
-        src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}"
-        alt="{{ post.title }}" data-uk-cover>
+      {% assign original_url = post.image %}
+      {% unless post.image contains 'http' %}
+      {% assign original_url = site.uploads | absolute_url | append: post.image %}
+      {% endunless %}
+      {% if jekyll.environment == 'production' %}
+        {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+        {% assign fit_params = '&fit=cover&fm=webp' %}
+        {% assign encoded = original_url | url_encode %}
+        {% assign w400 = base_cdn | append: encoded | append: '&w=400&h=300' | append: fit_params %}
+        {% assign w600 = base_cdn | append: encoded | append: '&w=600&h=450' | append: fit_params %}
+        {% assign w800 = base_cdn | append: encoded | append: '&w=800&h=600' | append: fit_params %}
+        {% assign w1000 = base_cdn | append: encoded | append: '&w=1000&h=750' | append: fit_params %}
+        <img
+          src="{{ w600 }}"
+          srcset="{{ w400 }} 400w, {{ w600 }} 600w, {{ w800 }} 800w, {{ w1000 }} 1000w"
+          sizes="(min-width: 960px) 50vw, 100vw"
+          alt="{{ post.title }}" data-uk-cover loading="lazy" decoding="async">
+      {% else %}
+        <img
+          src="{{ original_url }}"
+          alt="{{ post.title }}" data-uk-cover loading="lazy" decoding="async">
+      {% endif %}
       <canvas width="600" height="450"></canvas>
     </a>
     {% endif %}

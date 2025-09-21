@@ -13,9 +13,25 @@ layout: default
   {% if page.image %}
   <div class="uk-container uk-container-small uk-margin-large-bottom">
     <div class="uk-cover-container">
-      <img
-        src="{% if page.image contains 'http' %}{{ page.image }}{% else %}{{ site.uploads | absolute_url }}{{ page.image }}{% endif %}"
-        alt="{{ page.title }}" data-uk-cover>
+      {% assign original_url = page.image %}
+      {% unless page.image contains 'http' %}
+      {% assign original_url = site.uploads | absolute_url | append: page.image %}
+      {% endunless %}
+      {% if jekyll.environment == 'production' %}
+        {% assign base_cdn = site.url | append: '/.netlify/images?url=' %}
+        {% assign fit_params = '&fit=cover&fm=webp' %}
+        {% assign encoded = original_url | url_encode %}
+        {% assign w1000 = base_cdn | append: encoded | append: '&w=1000&h=500' | append: fit_params %}
+        {% assign w1400 = base_cdn | append: encoded | append: '&w=1400&h=700' | append: fit_params %}
+        {% assign w1800 = base_cdn | append: encoded | append: '&w=1800&h=900' | append: fit_params %}
+        <img
+          src="{{ w1000 }}"
+          srcset="{{ w1000 }} 1000w, {{ w1400 }} 1400w, {{ w1800 }} 1800w"
+          sizes="(min-width: 1200px) 1000px, 100vw"
+          alt="{{ page.title }}" data-uk-cover decoding="async" fetchpriority="high">
+      {% else %}
+        <img src="{{ original_url }}" alt="{{ page.title }}" data-uk-cover decoding="async" fetchpriority="high">
+      {% endif %}
       <canvas width="1000" height="500"></canvas>
     </div>
   </div>
