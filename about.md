@@ -49,4 +49,4 @@ Check out our [event page](/events) and Instagram for more details!
 
 ### About the Founder
 
-If you'd like to learn a little more about the founder, Kenneth, you can view [him and his work here](https://brennanbrown.ca), he also has [several books available on Amazon](https://amazon.ca/stores/Brennan-Kenneth-Brown/author/B0DQTPYKHD). He has no involvement with Write Club at this time.
+If you'd like to learn a little more about the founder, Kenneth, you can view [him and his work here](https://brennanbrown.ca), he also has [several books available on Amazon](https://amazon.ca/stores/Brennan-Kenneth-Brown/author/B0DQTPYKHD). 
