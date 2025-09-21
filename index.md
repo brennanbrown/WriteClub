@@ -20,7 +20,7 @@ layout: full
 
 <!-- {% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %} -->
 
-{% include section-cta.html title="Looking To Contribute?" text="We are looking for writers from all walks of life to contribute, if you have something to say get in touch." button_text="Apply" button_url="https://forms.gle/Ac2X8ArAKXX4zHwK8" blank="true" %}
+{% include section-cta.html title="Looking To Contribute?" text="We are looking for writers from all walks of life to contribute, if you have something to say get in touch." button_text="Apply" button_url="https://forms.gle/KHEV6Q5cDSkCcnmr8" blank="true" %}
 
 <!-- 
 {% include section-author.html author="john" title="Hello, I am Jane! Welcome to my blog." %} 
