@@ -16,13 +16,30 @@
 
     <!-- Begin Substack Embed (Responsive) -->
     <div class="uk-width-1-1 uk-width-4-5@m">
-      <div class="uk-card uk-card-default uk-card-body uk-padding-remove" style="border:1px solid #EEE; background:#fff;">
-        <div style="position:relative; width:100%; padding-top:66.6667%; /* 480x320 aspect ratio */ overflow:hidden;">
-          <iframe
-            src="https://thewriteclub.substack.com/embed"
-            title="Substack Subscribe"
-            style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; background:white;"
-            frameborder="0" scrolling="no" loading="lazy" decoding="async"></iframe>
+      <style>
+        /* Scoped styles for Substack embed sizing */
+        .substack-embed { --ss-scale: 0.78; --ss-height: 210px; transition: height 160ms ease; }
+        .substack-embed:hover, .substack-embed:focus-within { --ss-scale: 0.90; --ss-height: 280px; }
+        @media (max-width: 960px) {
+          .substack-embed { --ss-scale: 0.76; --ss-height: 200px; }
+          .substack-embed:hover, .substack-embed:focus-within { --ss-scale: 0.85; --ss-height: 260px; }
+        }
+        @media (max-width: 640px) {
+          .substack-embed { --ss-scale: 0.74; --ss-height: 190px; }
+          .substack-embed:hover, .substack-embed:focus-within { --ss-scale: 0.82; --ss-height: 240px; }
+        }
+        .substack-embed .scale-frame { position: relative; width: 100%; height: var(--ss-height); overflow: hidden; transition: height 160ms ease; }
+        .substack-embed .scale-inner { transform: scale(var(--ss-scale)); transform-origin: top left; width: calc(100% / var(--ss-scale)); height: calc(var(--ss-height) / var(--ss-scale)); transition: transform 160ms ease, height 160ms ease; }
+        .substack-embed iframe { width: 100%; height: 100%; border: 0; background: #fff; }
+      </style>
+      <div class="uk-card uk-card-default uk-card-body uk-padding-remove substack-embed" style="border:1px solid #EEE; background:#fff;">
+        <div class="scale-frame">
+          <div class="scale-inner">
+            <iframe
+              src="https://thewriteclub.substack.com/embed"
+              title="Substack Subscribe"
+              frameborder="0" scrolling="no" loading="lazy" decoding="async"></iframe>
+          </div>
         </div>
       </div>
       <noscript>

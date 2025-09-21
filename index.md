@@ -10,7 +10,7 @@ layout: full
 
 {% include section-spotlight.html title="Spotlight" %} -->
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Mailchimp and stay up to date with club activities and new writings." button_text="Support Us" %}
+{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our seasonal newsletter through Substack and stay up to date with club activities and new writings." button_text="Support Us" %}
 
 {% include section-latest.html title="Latest Writings" limit="6" more="More Writings" %}
 
