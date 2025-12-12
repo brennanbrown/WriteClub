@@ -2,6 +2,8 @@
 layout: full
 ---
 
+<span style="display:none">proven.lol/9af657</span>
+
 {% include section-ad.html image="hero2.png" alt="New! Buy our first anthology!" width="" url="https://www.amazon.ca/Fringe-Collection-Felix-Costa-Gomez/dp/B0F4PKFRZQ" blank="true" %}
 
 {% include section-ad.html image="hero.jpg" alt="Sign up to our club now!" width="" url="https://forms.gle/KHEV6Q5cDSkCcnmr8" blank="true" %}
