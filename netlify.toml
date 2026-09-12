@@ -3,6 +3,5 @@
   publish = "_site"
 
 [build.environment]
-  RUBY_VERSION = "3.2.3"
-  BUNDLER_VERSION = "2.4.5"
-  NODE_VERSION = "18"
+  RUBY_VERSION = "3.4.6"
+  NODE_VERSION = "22"

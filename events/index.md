@@ -57,7 +57,7 @@ Join us at West Gate Social for a night of poetry, performance, and passion. Thi
 
 🎤📚 Mark your calendars! 📚🎤 Get ready for an electrifying evening of spoken word and poetic magic at West Gate Social! 🌟 Join us for a Poetry Slam at MRU on Thursday, March 21, 2024. 🗓️ Whether you're a seasoned poet or just love soaking in the vibes, this event promises to be unforgettable! 🎶✨
 
-## [See the Judging Rubric HERE!](https://writeclub.ca/Rubric-Poetry.pdf)
+## [See the Judging Rubric HERE!](https://writeclub.netlify.app/Rubric-Poetry.pdf)
 
 ### NOTE: All welcome! Students and Non-student alike!
 
@@ -191,7 +191,7 @@ Come perform or watch, and let's celebrate the power of words together at West G
 
 Prepare to be mesmerized by the magic of miniature narratives! Write Club invites you to the Micro-Storytelling & Micro-Fiction Event, a celebration of concise and captivating storytelling. Get ready to share under the spotlight, where brevity meets creativity at West Gate Social.
 
-## [See the Judging Rubric HERE!](https://writeclub.ca/Rubric.pdf)
+## [See the Judging Rubric HERE!](https://writeclub.netlify.app/Rubric.pdf)
 
 **Venue**: West Gate Social
 

@@ -64,7 +64,7 @@ The Mount Royal Creative Writing Club encourages open communication and provides
 
 ## Enforcement
 
-Violations of the Code of Conduct may be reported by sending an email to [editor@writeclub.ca](mailto:editor@writeclub.ca). All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
+Violations of the Code of Conduct may be reported by sending an email to [writeclub@brennanbrown.ca](mailto:writeclub@brennanbrown.ca). All reports will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Further details of specific enforcement policies may be posted separately.
 
 We hold the right and responsibility to remove comments or other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
 

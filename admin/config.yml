@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  identity_url: "https://writeclub.ca/.netlify/identity"
-  gateway_url: "https://writeclub.ca/.netlify/git"
+  identity_url: "https://writeclub.netlify.app/.netlify/identity"
+  gateway_url: "https://writeclub.netlify.app/.netlify/git"
   login: true
   roles: ["admin", "editor"] # Allow both admin and editor roles
 

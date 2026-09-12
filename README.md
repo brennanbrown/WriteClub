@@ -10,7 +10,7 @@
   <p align="center">
     A safer space for writers of all kinds and experience.
     <br />
-    <a href="https://writeclub.ca"><strong>Visit the website!</strong></a>
+    <a href="https://writeclub.netlify.app"><strong>Visit the website!</strong></a>
     <br />
     <br />
     <strong><a href="https://forms.gle/wopJW1kj2yibJ1Tn8">Apply Now</a></strong>
@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-Mount Royal University’s Creative Writing Club is dedicated to nurturing the literary talents of our community in a safe and inclusive environment. Whether you’re an experienced writer or a beginner embarking on your creative journey, our club offers a supportive space for you to hone your craft, share your work, and connect with like-minded individuals. Please read our [Code of Conduct](https://writeclub.ca/terms/)!
+Mount Royal University’s Creative Writing Club is dedicated to nurturing the literary talents of our community in a safe and inclusive environment. Whether you’re an experienced writer or a beginner embarking on your creative journey, our club offers a supportive space for you to hone your craft, share your work, and connect with like-minded individuals. Please read our [Code of Conduct](https://writeclub.netlify.app/terms/)!
 
 ## How to Join Write Club
 
@@ -59,7 +59,7 @@ Time: 4:30pm - 6:30pm
 - 📣 **Roll Call and Ice Breaker:** Every meeting kicks off with a quick attendance check, followed by a short and engaging writing exercise. We take a few moments to recap the highlights and decisions of our previous meeting, ensuring we stay aligned with our goals.
 - ✍️ **Writing Prompt Session:** Everyone is encouraged to bring a writing prompt or an inspiring excerpt. After choosing one, we engage in a timed writing session.
 - 💬 **Sharing and Discussion:** In the Writer’s Round Table segment, members can present their pieces, gather insights, and receive constructive feedback in an affirming setting.
-- ✨ **Club Activities and Announcements:** Here, we discuss our vibrant array of events, from writing contests and fundraisers to discussions about our [online publication](https://writeclub.ca/). If you wish to have your work featured online, you can submit through our Google Drive.
+- ✨ **Club Activities and Announcements:** Here, we discuss our vibrant array of events, from writing contests and fundraisers to discussions about our [online publication](https://writeclub.netlify.app/). If you wish to have your work featured online, you can submit through our Google Drive.
 
 ## About Write Club
 

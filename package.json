@@ -14,22 +14,19 @@
   "homepage": "https://etoile.jekyll.plus",
   "dependencies": {
     "instafetch.js": "^1.5.0",
-    "sharer.js": "^0.3.1",
-    "simple-jekyll-search": "^1.7.2",
+    "sharer.js": "^0.5.4",
+    "simple-jekyll-search": "^1.10.0",
     "system-font-css": "^2.0.2",
-    "uikit": "^3.0.0-rc.25"
+    "uikit": "^3.25.21"
   },
   "devDependencies": {
-    "cpx": "^1.5.0",
-    "jshint": "^2.9.5",
-    "ncp": "latest",
-    "onchange": "^3.3.0",
-    "uglify-js": "^3.3.18"
+    "onchange": "^7.1.0",
+    "uglify-js": "^3.19.3"
   },
   "scripts": {
-    "copy:sass": "ncp node_modules/uikit/src/scss/ _sass/vendor/uikit/ && ncp node_modules/system-font-css/ _sass/vendor/system-font-css/",
-    "copy:js": "cpx \"node_modules/uikit/dist/js/uikit.js\" assets/js/vendor/ && cpx \"node_modules/uikit/dist/js/uikit-icons.js\" assets/js/vendor/ && cpx \"node_modules/simple-jekyll-search/dest/simple-jekyll-search.js\" assets/js/vendor/ && cpx \"node_modules/instafetch.js/dist/instafetch.js\" assets/js/vendor/ && cpx \"node_modules/sharer.js/sharer.js\" assets/js/vendor/",
-    "lint": "jshint assets/js/_main.js",
+    "copy:sass": "mkdir -p _sass/vendor/uikit _sass/vendor/system-font-css && cp -R node_modules/uikit/src/scss/. _sass/vendor/uikit/ && cp -R node_modules/system-font-css/. _sass/vendor/system-font-css/",
+    "copy:js": "mkdir -p assets/js/vendor && cp node_modules/uikit/dist/js/uikit.js node_modules/uikit/dist/js/uikit-icons.js node_modules/simple-jekyll-search/dest/simple-jekyll-search.js node_modules/instafetch.js/dist/instafetch.js node_modules/sharer.js/sharer.js assets/js/vendor/",
+    "lint": "node --check assets/js/_main.js",
     "uglify": "uglifyjs assets/js/vendor/uikit.js assets/js/vendor/uikit-icons.js assets/js/vendor/simple-jekyll-search.js assets/js/vendor/instafetch.js assets/js/vendor/sharer.js assets/js/_main.js -m -c -o assets/js/main.min.js",
     "build": "npm run lint && npm run uglify",
     "watch": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build",
